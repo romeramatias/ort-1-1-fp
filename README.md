@@ -1,6 +1,7 @@
 # ORT-1-1-FP
 Fundamentos de Programación, primer año, primer cuatrimestre de la carrera Analista de Sistemas en ORT Argentina, en
-donde hicimos una introducción a algoritmos en pseudocódigos y lleve a alguno de tantos ejercicios vistos a lenguaje Java para la practica
+donde nos introducimos a los algoritmos en pseudocódigos y lleve a alguno de tantos ejercicios vistos a lenguaje Java para la practica.
+Los contenidos visto son:
 
 Unidad 1
 - Introduccion a la programacion
